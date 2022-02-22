@@ -16,6 +16,7 @@
   <img align="center" alt="JP-C" height="30" width="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'>
   <img align="center" alt="JP-Cpp" height="30" width="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
   <img align="center" alt="JP-Cembedded" height="30" width="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg'>
+   <img align="center" alt="JP-Java" height="30" width="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
   <img align="right" alt="dev-icon" height="150" src="https://cdni.iconscout.com/illustration/free/thumb/man-developing-website-on-desk-2040889-1721885.png">
 </div>
   
