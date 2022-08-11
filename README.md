@@ -17,6 +17,8 @@
   <img align="center" alt="JP-Cpp" height="30" width="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
   <img align="center" alt="JP-Cembedded" height="30" width="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg'>
    <img align="center" alt="JP-Java" height="30" width="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
+   <img align="center" alt="matlab" height="30" width="30" src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg'>
+
   <img align="right" alt="dev-icon" height="150" src="https://cdni.iconscout.com/illustration/free/thumb/man-developing-website-on-desk-2040889-1721885.png">
 </div>
   
