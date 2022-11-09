@@ -1,7 +1,7 @@
 ## Opa, sou João Pedro M. Gomes 😄
 
 - 🔭 Atualmente trabalho com verificação utilizando UVM
-- 🌱 Estudando Desenvolvimento de jogos por hobby
+- 🌱 Atualmente estudando sobre processamento digital de sinais
 
  <div>
   <a href="https://github.com/JoaoPi314">
